@@ -1,0 +1,23 @@
+.section1 {
+	background-color: black;
+}
+
+.section2 {
+	background-color: black;
+}
+
+.section3 {
+	background-color: black;
+}
+
+.section4 {
+	background-color: black;
+}
+
+.card, .card-img-top {
+	border-radius: 0;
+}
+
+.card {
+	border: 0;
+}
